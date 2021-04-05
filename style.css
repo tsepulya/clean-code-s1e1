@@ -167,15 +167,11 @@
   display: none;
 }
 
-
-.item.edit-mode .item__task_input
-
-
-.input_edit {
+.list__item.edit-mode .list__input_text {
   display: inline-block;
-  width: 224px;
+  width: 244px;
 }
 
-.task_edit {
+.list__item.edit-mode .list__task{
   display: none;
 }
